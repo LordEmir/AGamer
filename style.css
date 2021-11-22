@@ -28,3 +28,9 @@ label#Movie {
 #jafar {
     opacity: 0.6;
 }
+div.test {
+    border-radius: 30px;
+}
+article.test {
+    border-radius: 10px;
+}
