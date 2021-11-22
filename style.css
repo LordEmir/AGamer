@@ -1,9 +1,11 @@
 label#Movie {
     color: red;
 }
+
 .test {
     height: 100px;
     width: 110px;
     color: aqua;
-     
+    border-radius: 50%;
+
 }
