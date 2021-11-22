@@ -11,14 +11,20 @@ label#Movie {
     border: 5px solid black;
     border-radius: 50%;
     color: whitesmoke;
+    text-align: center;
+    font-size: 24px;
+
 }
 .test2 {
     height: 100px;
     width: 110px;
     padding: 20px;
     margin: 10px;
-    background-color: rebeccapurple;
+    background-color: rebeccapurple;1
     border: 5px solid black;
     border-radius: 50%;
+    box-shadow: 0 0 10px black;
     color: whitesmoke;
+    text-align: center;
+    font-size: 24px;
 }
