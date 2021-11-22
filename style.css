@@ -13,4 +13,5 @@
 }
 .jabarami:hover {
     box-shadow: 0 10px black;
+    cursor: pointer;
 }
