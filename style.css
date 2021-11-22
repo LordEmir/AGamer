@@ -10,6 +10,7 @@ label#Movie {
     background-color: aqua;
     border: 5px solid black;
     border-radius: 50%;
+    box-shadow: 0 0 10px black;
     color: whitesmoke;
     text-align: center;
     font-size: 24px;
